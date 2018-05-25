@@ -4,5 +4,4 @@ I used [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) po
 
 ### The screenshot of this one page site
 
-
-<img src="portfolio/img/s_m_asif_al_samy.png" />
+![asifsamy](https://user-images.githubusercontent.com/19818734/40528946-79d1edd6-6014-11e8-9a3f-3f99aaa5a1b5.png)
