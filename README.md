@@ -5,4 +5,4 @@ I used [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) po
 ### The screenshot of this one page site
 
 
-<img src="https://raw.githubusercontent.com/hasancse91/My-Portfolio-Site/master/Portfolio-SourceCode/screenshot.png" />
+<img src="portfolio/img/s_m_asif_al_samy.png" />
